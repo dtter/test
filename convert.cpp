@@ -9,5 +9,4 @@ int main() {
     d = (float) 9/5 * n;
     f = d + 32;
     cout << n << " in Farenheit is " << f;
-    
 }
