@@ -10,7 +10,7 @@ int main() {
         cout << "not 69 bestie. next \n";
         cin >> y;
         
-        if (y >= 2; y < 20) {
+        if (y >= 2) {
             cout << "ok better";
         }
         else {
