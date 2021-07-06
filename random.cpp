@@ -20,6 +20,6 @@ int main() {
     else {
         cout << x << " is great i guess";
     }
-
+    
     return 0;
 }
