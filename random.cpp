@@ -6,11 +6,11 @@ int main() {
     cout << "insert the value of x: ";
     cin >> x;
     
-    if (x == 69){
-        cout << "not 69 bestie. next \n";
+    if (x == 70){
+        cout << "not 70 bestie. next \n";
         cin >> y;
         
-        if (y >= 2; y < 20) {
+        if (y >= 2) {
             cout << "ok better";
         }
         else {
