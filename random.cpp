@@ -14,7 +14,7 @@ int main() {
             cout << "ok better";
         }
         else {
-            cout << "try later";
+            cout << "try later, ok?";
         }
     }
     else {
